@@ -1,0 +1,24 @@
+.header1 {
+
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}
+
+.para1 {
+
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+
+}
+
+body {
+    
+    position: relative;
+    background-image: url("assets/background\ 1\ .jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100vh;
+
+    
+}
